@@ -1,0 +1,8 @@
+{
+  "name": "Shwet app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "2f953b1d"
+}
